@@ -1,3 +1,4 @@
-esta es la historia de jaimer
+esta es la historia de jaimer, esta es una modificación adicional que estoy haciendo.
 
 Jaimer es un estudiante, esto es un ejemplo de auto estudio
+no importa estoy estudiando las bases de GIT
